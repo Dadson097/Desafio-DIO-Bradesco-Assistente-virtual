@@ -1,5 +1,13 @@
 # Avaliação e Métricas
 
+> [!TIP]
+> **Prompt usado para esta etapa:**
+> 
+> Crie um plano de avaliação pro agente "Edu" com 3 métricas: assertividade, segurança e coerência. Inclua 4 cenários de teste e um formulário simples de feedback. Preencha o template abaixo.
+>
+> [cole ou anexe o template `04-metricas.md` pra contexto]
+
+
 ## Como Avaliar seu Agente
 
 A avaliação pode ser feita de duas formas complementares:
@@ -48,17 +56,17 @@ Crie testes simples para validar seu agente:
 
 ---
 
-## Formulário de Feedback
+## Formulário de Feedback (Sugestão)
 
 Use com os participantes do teste:
 
 | Métrica | Pergunta | Nota (1-5) |
 |---------|----------|------------|
-| Assertividade | "A resposta respondeu sua pergunta?" | ___ |
+| Assertividade | "As respostas responderam suas perguntas?" | ___ |
 | Segurança | "As informações pareceram confiáveis?" | ___ |
 | Coerência | "A linguagem foi clara e fácil de entender?" | ___ |
 
-**Comentário aberto:** O que poderia melhorar?
+**Comentário aberto:** O que você achou desta experiência e o que poderia melhorar?
 
 ---
 
