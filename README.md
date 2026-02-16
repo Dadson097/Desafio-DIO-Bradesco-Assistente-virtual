@@ -1,6 +1,6 @@
 # 🎓 Assistente Financeiro Personalizado
 
-> Agente de IA Generativa adaptado para **controle de gastos pessoais**, usando meus próprios dados financeiros como exemplos práticos.
+> Agente de IA Generativa adaptado para **controle de gastos pessoais**
 
 ## 💡 O Que é Este Projeto?
 
