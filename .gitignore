@@ -1,0 +1,83 @@
+# 📁 PASTA DE DADOS PESSOAIS - NUNCA ENVIAR PARA O GITHUB
+/data/
+/data/*
+!data/.gitkeep
+
+# 📁 Arquivos de dados (CSV/JSON)
+*.csv
+*.json
+!examples/*.csv
+!examples/*.json
+
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# 📦 Distribuição / empacotamento
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 🧪 Testes
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# 🔧 IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.db
+
+# 📦 Streamlit
+.streamlit/
+
+# 📦 Cache
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 📦 Backup
+*.bak
+*.backup
+backup/
+temp/
+tmp/
+
+# 📦 Logs
+*.log
+logs/
