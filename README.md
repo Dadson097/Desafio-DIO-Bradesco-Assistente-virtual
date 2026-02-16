@@ -19,25 +19,25 @@ usando MEUS dados financeiros reais.
 
 Desafio-DIO-Bradesco-Assistente-virtual/
 │
-├── 📁 data/ # Seus dados pessoais (NÃO sobem para o GitHub)
-│ ├── perfil_financeiro.json # Sua renda mensal e metas de economia
-│ ├── transacoes.csv # Todas as suas transações financeiras
-│ ├── historico_atendimento.csv # Histórico das conversas com o assistente
-│ └── dicas_orcamento.json # Base de conhecimento personalizada
+├── 📁 data/ # SEUS DADOS (ignorados no git)
+│ ├── perfil_financeiro.json # Sua renda e metas
+│ ├── transacoes.csv # Seu histórico de gastos
+│ ├── historico_atendimento.csv # Suas conversas
+│ └── dicas_orcamento.json # Suas dicas personalizadas
 │
-├── 📁 docs/ # Documentação completa do projeto
-│ ├── 01-documentacao-agente.md # Persona e comportamento do assistente
-│ ├── 02-base-conhecimento.md # Estrutura e uso dos dados
-│ ├── 03-prompts.md # Comandos e respostas esperadas
-│ └── 04-metricas.md # Métricas de avaliação
+├── 📁 docs/ # Documentação
+│ ├── 01-documentacao-agente.md
+│ ├── 02-base-conhecimento.md
+│ ├── 03-prompts.md
+│ └── 04-metricas.md
 │
 ├── 📁 src/ # Código fonte
-│ └── assistente.py # Aplicação principal em Streamlit
+│ └── assistente.py
 │
-├── 📁 examples/ # Exemplos para referência
-│ ├── exemplo_transacoes.csv # Formato esperado das transações
-│ └── exemplo_perfil.json # Formato esperado do perfil
+├── 📁 examples/ # Dados de exemplo
+│ ├── exemplo_transacoes.csv
+│ └── exemplo_perfil.json
 │
-├── .gitignore # Arquivos ignorados pelo Git
-├── README.md # Esta documentação
-└── requirements.txt # Dependências do projeto
+├── .gitignore # Protege seus dados
+├── README.md # Documentação principal
+└── requirements.txt # Dependências
