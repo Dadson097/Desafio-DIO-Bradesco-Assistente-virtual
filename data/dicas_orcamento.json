@@ -1,18 +1,6 @@
 {
-  "metodos_economia": [
-    {
-      "nome": "Método 50-30-20",
-      "descricao": "50% necessidades, 30% desejos, 20% economia",
-      "como_aplicar": "Separe 20% da sua renda assim que receber"
-    },
-    {
-      "nome": "Regra dos 30 dias",
-      "descricao": "Espere 30 dias antes de comprar algo não essencial",
-      "como_aplicar": "Anote o desejo e reveja após 30 dias"
-    }
-  ],
-  "categorizacao": {
-    "essencial": ["moradia", "alimentacao", "transporte", "saude"],
-    "nao_essencial": ["lazer", "restaurante", "viagens"]
-  }
+  "dicas": [
+    "Cozinhar em casa economiza até R$ 200/mês",
+    "Transporte público custa 1/3 do Uber"
+  ]
 }
